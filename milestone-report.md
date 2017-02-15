@@ -3,7 +3,7 @@
 # Summary
 |Milestone|ETA|
 |---------|---|
-|[No milestone](#no-milestone)|2017/02/14|
+|[No milestone](#no-milestone)|2017/02/15|
 
 
 
@@ -11,4 +11,4 @@
 ## No milestone
 |Issue|Tiklkle|State|Owner|ETA|
 |-----|-----|-----|-----|---|
-|[#1](https://github.com/jsdevprocess/org_testrepo/issues/1)|fix all bugs (fixbugs)|:red_circle: Open||[2017/02/14](https://github.com/jsdevprocess/org_testrepo/issues/1#issuecomment-None)|
+|[#1](https://github.com/jsdevprocess/org_testrepo/issues/1)|fix all bugs (fixbugs)|:red_circle: Open||[2017/02/15](https://github.com/jsdevprocess/org_testrepo/issues/1#issuecomment-None)|
